@@ -26,7 +26,6 @@
         "phpcollection/phpcollection": "^0.6",
         "doctrine/annotations": "^1.13 || ^2.0",
         "doctrine/instantiator": "^1.4 || ^2.0",
-        "symfony/polyfill-php73": "^1.23",
         "doctrine/dbal": "^3.3.7"
     },
     "conflict": {
